@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactbookapp/static/css/main.b98d92ac.css",
+    "main.js": "/reactbookapp/static/js/main.d543d192.js",
+    "static/media/habbits_of_highely_effective_people.jpg": "/reactbookapp/static/media/habbits_of_highely_effective_people.deccc0d33b42be13514c.jpg",
+    "static/media/rich_dad_poor_dad.jpg": "/reactbookapp/static/media/rich_dad_poor_dad.c7e31ccb9ea6110c10c1.jpg",
+    "static/media/wings_of_fire.jpg": "/reactbookapp/static/media/wings_of_fire.62b09580d0759e89aef9.jpg",
+    "static/media/rich_mother_rich_son.jpg": "/reactbookapp/static/media/rich_mother_rich_son.68d0de93e953392c4bab.jpg",
+    "index.html": "/reactbookapp/index.html",
+    "main.b98d92ac.css.map": "/reactbookapp/static/css/main.b98d92ac.css.map",
+    "main.d543d192.js.map": "/reactbookapp/static/js/main.d543d192.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b98d92ac.css",
+    "static/js/main.d543d192.js"
+  ]
+}
